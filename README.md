@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# NvimConfig
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+> [!NOTE]
+> This repository first started out as a copy of [LazyVim/starter](https://github.com/LazyVim/starter) which has now been modified for my personal use.
