@@ -1,5 +1,7 @@
 {
   "extras": [
+    "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.lang.cmake",
     "lazyvim.plugins.extras.ui.smear-cursor"
   ],
   "install_version": 8,
